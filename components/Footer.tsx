@@ -1,6 +1,3 @@
-import { GithubIcon, TwitterIcon } from "lucide-react";
-import { Button } from "@/components/ui/button";
-
 export default function Footer() {
   return (
     <footer className="py-6 px-4 mt-24">
